@@ -28,6 +28,7 @@ endef
 
 define Package/dogcom/description
 	dogcom is drcom-generic implementation in C.
+	This is xsyu drcom version.
 endef
 
 MAKE_FLAGS += \

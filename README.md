@@ -5,7 +5,8 @@
 ```bash
 $ make package/openwrt-dogcom/compile
 ```
-
+Tutorial
+[![asciicast](https://asciinema.org/a/yYsIEyYznGCRksPHbabiYcpAz.svg)](https://asciinema.org/a/yYsIEyYznGCRksPHbabiYcpAz)
 ### Notice:
 This package do not include a init file.
 
